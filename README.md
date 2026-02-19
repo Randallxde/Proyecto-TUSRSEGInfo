@@ -1,5 +1,5 @@
-# Proyecto-TUSRSEGInfo
+# Proyecto-TURSEGinfo
 
-TURSEGInfo
+TURSEGinfo
 
-Sisitema de informacion para turismo y seguridad local
+Sisitema de informacion para turismo y seguridad local en colombia
