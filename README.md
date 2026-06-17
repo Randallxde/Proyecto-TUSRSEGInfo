@@ -1,8 +1,8 @@
-# Proyecto-TURSEGinfo
+# Proyecto-TURSEG
 
 ![image alt](Fondo.png)
 
 
-TURSEGinfo
+TURSEG
 
 Sistema de Informacion para Turismo y Seguridad Local.
