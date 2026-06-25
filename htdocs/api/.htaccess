@@ -1,0 +1,5 @@
+Options -Indexes
+RewriteEngine On
+RewriteBase /api/
+
+# No romper archivos existentes; solo evita que se liste el directorio
